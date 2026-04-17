@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake Applet",
+  "description": "A combination dark-neon themed Snake game and music player.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
